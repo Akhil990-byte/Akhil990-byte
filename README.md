@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Akhil990-byte
 - 👀 I’m interested in Front-end developing
-- 🌱 I’m currently learning React and Bootsrtap CSS
+- 🌱 I’m currently learning React JS and Bootsrtap CSS
 - 💞️ I’m looking to collaborate on building some interesting websites
 - 📫 reach me at akhileshkhadse@gmail.com
 
