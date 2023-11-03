@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @Akhil990-byte
-- 👀 I’m interested in Front-end developing
-- 🌱 I’m currently learning React JS and Bootsrtap CSS
-- 💞️ I’m looking to collaborate on building some interesting websites
+- 👋 Hi, I’m Akhilesh
+- 👀 I’m interested in Full-stack development and have worked on creating engaging marketing experience via my Web and Emai developments
+- 🌱 I’m currently getting upskilled in RDBMS, Data Mining and Data Visualization to be able to create more user friendly and data driven solutions
 - 📫 reach me at akhileshkhadse@gmail.com
 
 <!---
