@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Akhilesh
-- 👀 I’m interested in Full-stack development and have worked on creating engaging marketing experience via my Web and Emai campaigns
-- 🌱 I’m currently getting upskilled in RDBMS, Data Mining and Data Visualization to be able to create more user friendly and data driven solutions
+- 👀 I’m interested in Artificial Intelligence and Machine Learning and have worked on creating engaging marketing experiences via my Web and Emai campaigns
+- 🌱 I’m currently getting upskilled in RDBMS, Data Mining, and Data Visualization to be able to create more user-friendly and data-driven solutions
 - 📫 reach me at akhileshkhadse@gmail.com
 
 <!---
